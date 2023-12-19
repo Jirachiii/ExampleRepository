@@ -1,2 +1,2 @@
-# ExampleRepository
-An example repository with topic tags, description, and README.d
+# THIS IS THE README
+In software development, a README file contains information about the other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called README, Read Me, READ.ME, README.TXT, README.md, or README.1ST. The file's name is generally written in uppercase.
